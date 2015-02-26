@@ -1,0 +1,10 @@
+{
+  "name": "NodeProfiling",
+  "version": "0.0.0",
+  "description": "NodeProfiling",
+  "main": "server.js",
+  "author": {
+    "name": "Babis",
+    "email": ""
+  }
+}
